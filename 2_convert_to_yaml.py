@@ -688,9 +688,20 @@ class YAMLConverter:
         print()
 
         written = 0
+        filename_counts = {}  # Track duplicate filenames
+
         for screen in screens:
             yaml_content = self._convert_screen(screen)
-            filename = self._sanitize_filename(screen["name"]) + ".yaml"
+            base_filename = self._sanitize_filename(screen["name"])
+
+            # Handle duplicate filenames by appending counter
+            if base_filename in filename_counts:
+                filename_counts[base_filename] += 1
+                filename = f"{base_filename}_{filename_counts[base_filename]}.yaml"
+            else:
+                filename_counts[base_filename] = 1
+                filename = f"{base_filename}.yaml"
+
             filepath = output_path / filename
 
             with open(filepath, "w", encoding="utf-8") as f:

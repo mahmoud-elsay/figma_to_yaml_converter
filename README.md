@@ -225,7 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🐛 **Found a bug?** [Open an issue](https://github.com/yourusername/figma_to_yaml/issues)
 - 💡 **Have a feature request?** [Start a discussion](https://github.com/yourusername/figma_to_yaml/discussions)
 - 📧 **Need help?** Reach out via [elsayedmahmoud763@gmail.com](mailto:elsayedmahmoud763@gmail.com)
-- 🎥 **Learn more:** Check out the [YouTube tutorial](YOUR_YOUTUBE_VIDEO_LINK)
+- 🎥 **Learn more:** Check out the [YouTube tutorial](https://www.youtube.com/watch?v=H_vXAWKl60s)
 
 ---
 
@@ -236,3 +236,4 @@ Made with ❤️ by the community
 **[⭐ Star this repo](https://github.com/yourusername/figma_to_yaml)** if you find it useful!
 
 </div>
+

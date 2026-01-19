@@ -40,6 +40,16 @@ Ensure you have Python 3.8 or higher installed on your system.
 
 ## 📖 Usage Guide
 
+### 🎥 Video Tutorial
+
+**Watch the complete walkthrough on YouTube:**
+
+[![Figma to YAML Converter Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_VIDEO_LINK)
+
+Learn how to use the converter step-by-step with practical examples and tips!
+
+---
+
 ### Basic Workflow
 
 #### Step 1️⃣: Download Figma File (Optional)
@@ -214,13 +224,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🐛 **Found a bug?** [Open an issue](https://github.com/yourusername/figma_to_yaml/issues)
 - 💡 **Have a feature request?** [Start a discussion](https://github.com/yourusername/figma_to_yaml/discussions)
-- 📧 **Need help?** Reach out via [email@example.com](mailto:email@example.com)
+- 📧 **Need help?** Reach out via [elsayedmahmoud763@gmail.com](mailto:elsayedmahmoud763@gmail.com)
+- 🎥 **Learn more:** Check out the [YouTube tutorial](YOUR_YOUTUBE_VIDEO_LINK)
 
 ---
 
 <div align="center">
 
-
+Made with ❤️ by the community
 
 **[⭐ Star this repo](https://github.com/yourusername/figma_to_yaml)** if you find it useful!
 
